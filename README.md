@@ -1,3 +1,4 @@
+[Демо проекта](https://aleksandrazolotukhina.github.io/Todo-App/)
 ### Используемые библиотеки
 - React
 - TypeScript
